@@ -2,7 +2,7 @@ Almogavers
 ==========
 2008, 2009 Mario Macias
 
-![Screenshot]<shot.png "Screenshot">
+![Screenshot](shot.png "Screenshot")
 
 Unfinished adventure/platform game. Inspired in Castlevania and The Treasure of Usas
 
